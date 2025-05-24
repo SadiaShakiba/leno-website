@@ -5,7 +5,7 @@ Leno is a modern and responsive informational website built to showcase a produc
 This project is a static site developed using **HTML**, **CSS (BEM methodology)**, and **JavaScript** for interactivity and simple animations.
 
 🔗 **Live URL**  
-[https://leno-website-two.vercel.app/details.html](https://leno-website-two.vercel.app/index.html)
+[https://leno-website-two.vercel.app/index.html](https://leno-website-two.vercel.app/index.html)
 
 ## ✨ Features
 
